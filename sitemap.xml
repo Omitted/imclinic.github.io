@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://imclinic.org/</loc>
-	<lastmod>2020-11-27</lastmod>
+	<lastmod>2020-11-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -24,7 +24,7 @@
 </url>
 <url>
 	<loc>https://imclinic.org/about/</loc>
-	<lastmod>2020-11-27</lastmod>
+	<lastmod>2020-11-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -78,12 +78,16 @@
 </url>
 <url>
 	<loc>https://imclinic.org/patient-info/</loc>
-	<lastmod>2020-11-27</lastmod>
+	<lastmod>2020-11-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://imclinic.org/img/connect-20333-1010x377.jpg</image:loc>
 	<image:title>connect 20333-1010x377</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://imclinic.org/img/hush-naidoo-Zp7ebyti3MU-unsplash.jpg</image:loc>
+	<image:title>hush naidoo-Zp7ebyti3MU-unsplash</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://imclinic.org/img/</image:loc>
@@ -96,7 +100,7 @@
 </url>
 <url>
 	<loc>https://imclinic.org/contact-us/</loc>
-	<lastmod>2020-11-27</lastmod>
+	<lastmod>2020-11-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -110,7 +114,7 @@
 </url>
 <url>
 	<loc>https://imclinic.org/telemed/</loc>
-	<lastmod>2020-11-27</lastmod>
+	<lastmod>2020-11-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
