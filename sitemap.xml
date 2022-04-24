@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-	<loc>https://imclinic.org/</loc>
-	<lastmod>2021-02-13</lastmod>
+	<loc>https://imclinic.org</loc>
+	<lastmod>2022-04-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://imclinic.org/img/online-marketing-hIgeoQjS_iE-unsplash%20%281%29.jpg</image:loc>
-	<image:title>online%20marketing-hIgeoQjS_iE-unsplash%2520%25281%2529</image:title>
+	<image:loc>https://imclinic.org/img/Dr-Omer-Picture.jpg</image:loc>
+	<image:title>Dr Omer-Iqbal-Picture</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/writing%20smallerunsplash.jpg</image:loc>
-	<image:title>writing%2520smallerunsplash</image:title>
+	<image:loc>https://imclinic.org/img/abim-logo.png</image:loc>
+	<image:title>abim logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://imclinic.org/img/acp-fellow-lockup-web.png</image:loc>
+	<image:title>acp fellow-lockup-web</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://imclinic.org/img/WhatsApp-Image-2021-08-29-at-5.30.22-PM.jpeg</image:loc>
+	<image:title>WhatsApp Image-2021-08-29-at-5.30.22-PM.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://imclinic.org/img/MicrosoftTeams-image-57.png</image:loc>
+	<image:title>MicrosoftTeams image-57</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://imclinic.org/img/MicrosoftTeams-image-58.png</image:loc>
+	<image:title>MicrosoftTeams image-58</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://imclinic.org/img/MicrosoftTeams-image-56.png</image:loc>
+	<image:title>MicrosoftTeams image-56</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://imclinic.org/img/Direct-Primary-Care.png</image:loc>
+	<image:title>Direct Primary-Care</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://imclinic.org/img/urgent-care.png</image:loc>
+	<image:title>urgent care</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://imclinic.org/img/</image:loc>
@@ -24,48 +52,44 @@
 </url>
 <url>
 	<loc>https://imclinic.org/about/</loc>
-	<lastmod>2021-02-13</lastmod>
+	<lastmod>2022-04-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://imclinic.org/img/Iqbal_Omer.jpg</image:loc>
-	<image:title>Iqbal_Omer</image:title>
+	<image:loc>https://imclinic.org/img/Dr-Omer-Picture.jpg</image:loc>
+	<image:title>Dr Omer-Picture</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/abim%20logo.png</image:loc>
-	<image:title>abim%2520logo</image:title>
+	<image:loc>https://imclinic.org/img/abim-logo.png</image:loc>
+	<image:title>abim logo</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/board-certified-internists-adhere-to-guidelines-l.jpg</image:loc>
-	<image:title>board%20certified-internists-adhere-to-guidelines-l</image:title>
+	<image:loc>https://imclinic.org/img/acp-fellow-lockup-web.png</image:loc>
+	<image:title>acp fellow-lockup-web</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/board-certified-internists-save-more-lives-l.jpg</image:loc>
-	<image:title>board%20certified-internists-save-more-lives-l</image:title>
+	<image:loc>https://imclinic.org/img/Catherine-Adams-Picture.jpg</image:loc>
+	<image:title>Dr Omer-Picture</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/nick-fewings-XqOBKnxDSfE-unsplash.jpg</image:loc>
-	<image:title>placeholder%20image</image:title>
+	<image:loc>https://imclinic.org/img/frankie1.jpg</image:loc>
+	<image:title>frankie1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg</image:loc>
-	<image:title>placeholder%20image</image:title>
+	<image:loc>https://imclinic.org/img/sara1.jpg</image:loc>
+	<image:title>sara1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/cdc-qIR77o5woJ8-unsplash.jpg</image:loc>
-	<image:title>placeholder%20image</image:title>
+	<image:loc>https://imclinic.org/img/heather1.jpg</image:loc>
+	<image:title>heather1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/johny-georgiadis-3ewkNkfJj2k-unsplash.jpg</image:loc>
-	<image:title>placeholder%20image</image:title>
+	<image:loc>https://imclinic.org/img/tesa1.jpg</image:loc>
+	<image:title>sara1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://imclinic.org/img/joshua-coleman-wWT-ING8a0A-unsplash.jpg</image:loc>
-	<image:title>placeholder%20image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://imclinic.org/img/kelly-sikkema-SBxdMoOY9zM-unsplash.jpg</image:loc>
-	<image:title>placeholder%20image</image:title>
+	<image:loc>https://imclinic.org/img/placeholder-user.png</image:loc>
+	<image:title>placeholder user</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://imclinic.org/img/</image:loc>
@@ -77,17 +101,13 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://imclinic.org/patient-info/</loc>
-	<lastmod>2021-02-13</lastmod>
+	<loc>https://imclinic.org/patient-resources/</loc>
+	<lastmod>2022-04-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://imclinic.org/img/connect-20333-1010x377.jpg</image:loc>
-	<image:title>connect%2020333-1010x377</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://imclinic.org/img/hush-naidoo-Zp7ebyti3MU-unsplash.jpg</image:loc>
-	<image:title>hush%20naidoo-Zp7ebyti3MU-unsplash</image:title>
+	<image:loc>https://imclinic.org/img/Patient-Portal.jpg</image:loc>
+	<image:title>Patient Portal</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://imclinic.org/img/</image:loc>
@@ -100,25 +120,7 @@
 </url>
 <url>
 	<loc>https://imclinic.org/contact-us/</loc>
-	<lastmod>2021-02-13</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://imclinic.org/img/recapture-placeholder.png</image:loc>
-	<image:title>recapture%20placeholder</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://imclinic.org/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://imclinic.org/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://imclinic.org/telemed/</loc>
-	<lastmod>2021-02-13</lastmod>
+	<lastmod>2022-04-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
