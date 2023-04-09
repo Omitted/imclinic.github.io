@@ -1,1 +1,0 @@
-# imclinic.github.io
